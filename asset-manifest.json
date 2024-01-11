@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb3a7f11.css",
-    "main.js": "/static/js/main.46e76138.js",
+    "main.js": "/static/js/main.72ff3072.js",
     "static/media/pexels-thirdman-8926648.jpg": "/static/media/pexels-thirdman-8926648.2197569896f933960414.jpg",
     "static/media/shippori-mincho-5-700-normal.woff": "/static/media/shippori-mincho-5-700-normal.df5fc98f6a47575eb13c.woff",
     "static/media/shippori-mincho-5-800-normal.woff": "/static/media/shippori-mincho-5-800-normal.1df7768f4c76eb1feaab.woff",
@@ -1231,10 +1231,10 @@
     "static/media/shippori-mincho-55-400-normal.woff2": "/static/media/shippori-mincho-55-400-normal.ea7ba4861a2d644315b6.woff2",
     "static/media/shippori-mincho-55-600-normal.woff2": "/static/media/shippori-mincho-55-600-normal.005378fcc7b95801b6e8.woff2",
     "main.cb3a7f11.css.map": "/static/css/main.cb3a7f11.css.map",
-    "main.46e76138.js.map": "/static/js/main.46e76138.js.map"
+    "main.72ff3072.js.map": "/static/js/main.72ff3072.js.map"
   },
   "entrypoints": [
     "static/css/main.cb3a7f11.css",
-    "static/js/main.46e76138.js"
+    "static/js/main.72ff3072.js"
   ]
 }
