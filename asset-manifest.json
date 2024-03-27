@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8bd40bbb.css",
-    "main.js": "/static/js/main.98ebabdb.js",
+    "main.css": "/static/css/main.a64a9b76.css",
+    "main.js": "/static/js/main.3653b3ca.js",
     "static/media/pexels-thirdman-8926648.jpg": "/static/media/pexels-thirdman-8926648.2197569896f933960414.jpg",
     "static/media/teens_2.jpeg": "/static/media/teens_2.3d5f529eead07aefb52a.jpeg",
     "static/media/teens_1.jpeg": "/static/media/teens_1.f29e5a17904e32c4a6d5.jpeg",
@@ -455,7 +455,6 @@
     "static/media/shippori-mincho-1-700-normal.woff2": "/static/media/shippori-mincho-1-700-normal.4976461c3e8f2aaa0920.woff2",
     "static/media/shippori-mincho-33-800-normal.woff2": "/static/media/shippori-mincho-33-800-normal.82349fbbeafb48e9a06c.woff2",
     "static/media/shippori-mincho-33-700-normal.woff2": "/static/media/shippori-mincho-33-700-normal.b8b685ad41f22a8acf60.woff2",
-    "static/media/logo.png": "/static/media/logo.92213d604a2524d1b05b.png",
     "static/media/shippori-mincho-35-600-normal.woff2": "/static/media/shippori-mincho-35-600-normal.b71ac454833b09739f55.woff2",
     "static/media/shippori-mincho-27-400-normal.woff2": "/static/media/shippori-mincho-27-400-normal.73d18ade17bac3004489.woff2",
     "static/media/shippori-mincho-35-500-normal.woff2": "/static/media/shippori-mincho-35-500-normal.4bf4bfeaed25651a9168.woff2",
@@ -1236,11 +1235,11 @@
     "static/media/shippori-mincho-55-800-normal.woff2": "/static/media/shippori-mincho-55-800-normal.e00d485c28edced3d7ec.woff2",
     "static/media/shippori-mincho-55-400-normal.woff2": "/static/media/shippori-mincho-55-400-normal.ea7ba4861a2d644315b6.woff2",
     "static/media/shippori-mincho-55-600-normal.woff2": "/static/media/shippori-mincho-55-600-normal.005378fcc7b95801b6e8.woff2",
-    "main.8bd40bbb.css.map": "/static/css/main.8bd40bbb.css.map",
-    "main.98ebabdb.js.map": "/static/js/main.98ebabdb.js.map"
+    "main.a64a9b76.css.map": "/static/css/main.a64a9b76.css.map",
+    "main.3653b3ca.js.map": "/static/js/main.3653b3ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bd40bbb.css",
-    "static/js/main.98ebabdb.js"
+    "static/css/main.a64a9b76.css",
+    "static/js/main.3653b3ca.js"
   ]
 }
