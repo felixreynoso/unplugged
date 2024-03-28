@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a64a9b76.css",
-    "main.js": "/static/js/main.3653b3ca.js",
+    "main.css": "/static/css/main.fcd8d466.css",
+    "main.js": "/static/js/main.677bd8ef.js",
     "static/media/pexels-thirdman-8926648.jpg": "/static/media/pexels-thirdman-8926648.2197569896f933960414.jpg",
     "static/media/teens_2.jpeg": "/static/media/teens_2.3d5f529eead07aefb52a.jpeg",
     "static/media/teens_1.jpeg": "/static/media/teens_1.f29e5a17904e32c4a6d5.jpeg",
@@ -1235,11 +1235,11 @@
     "static/media/shippori-mincho-55-800-normal.woff2": "/static/media/shippori-mincho-55-800-normal.e00d485c28edced3d7ec.woff2",
     "static/media/shippori-mincho-55-400-normal.woff2": "/static/media/shippori-mincho-55-400-normal.ea7ba4861a2d644315b6.woff2",
     "static/media/shippori-mincho-55-600-normal.woff2": "/static/media/shippori-mincho-55-600-normal.005378fcc7b95801b6e8.woff2",
-    "main.a64a9b76.css.map": "/static/css/main.a64a9b76.css.map",
-    "main.3653b3ca.js.map": "/static/js/main.3653b3ca.js.map"
+    "main.fcd8d466.css.map": "/static/css/main.fcd8d466.css.map",
+    "main.677bd8ef.js.map": "/static/js/main.677bd8ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.a64a9b76.css",
-    "static/js/main.3653b3ca.js"
+    "static/css/main.fcd8d466.css",
+    "static/js/main.677bd8ef.js"
   ]
 }
